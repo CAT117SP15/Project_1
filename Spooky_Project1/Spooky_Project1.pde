@@ -54,7 +54,7 @@ class spook {
         background(197);
         */
 
-//I wanted to implement WASD controls instead of mouse follow. 
+//I really wanted to implement WASD controls instead of mouse follow. 
 //Setting keystrokes was a problem for me. i currently have it commented out
 
 
